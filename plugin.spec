@@ -1,5 +1,5 @@
 config:
     plugin_type: library
 subparsers:
-    core-library:
+    common-libraries:
         description: Core libraries for the infrared
